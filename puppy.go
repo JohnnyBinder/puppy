@@ -1,6 +1,8 @@
 package puppy
 
-import "dog"
+import (
+	"github.com/JohnnyBinder/dog"
+)
 
 func Bark() string {
 	return "Woof!"
