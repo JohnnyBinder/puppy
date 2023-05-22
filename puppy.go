@@ -13,9 +13,13 @@ func Barks() string {
 }
 
 func BigBark() string {
-	return dog.WhenGrownUp(Bark());
+	return dog.WhenGrownUp(Bark())
 }
 
 func BigBarks() string {
-	return dog.WhenGrownUp(Barks());
+	return dog.WhenGrownUp(Barks())
+}
+
+func SuperBigBark() string {
+	return dog.WhenBigAndGrownUp(Barks())
 }
