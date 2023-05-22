@@ -1,2 +1,4 @@
 github.com/JohnnyBinder/dog v0.0.0-20230522134808-0fb196ed823c h1:fNDdECv0DPdU5gJHCemSFiEs65kVQug2LjEOj85kB6U=
 github.com/JohnnyBinder/dog v0.0.0-20230522134808-0fb196ed823c/go.mod h1:BzKWIAZayvvMK4pP8F0IzVXIV1mjWRqHKcepFkFBOJ8=
+github.com/JohnnyBinder/dog v1.2.0 h1:6YXHpc6NZoj193TjELXZm1IdC9cuQZiVkHRTCDjyEKo=
+github.com/JohnnyBinder/dog v1.2.0/go.mod h1:BzKWIAZayvvMK4pP8F0IzVXIV1mjWRqHKcepFkFBOJ8=
